@@ -1,6 +1,6 @@
-baseurl = "https://gohugo.io/"
+baseurl = "https://kustiana.netlify.com/"
 title = "Simple Blox"
-author = "Oka bRionZ"
+author = "Kustiana"
 copyright = 'Copyright © by <a href="https://www.okabrionz.com">Oka bRionZ</a>'
 canonifyurls = true
 paginate = 3
